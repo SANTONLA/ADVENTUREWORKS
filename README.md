@@ -6,13 +6,17 @@ Este es un repositorio con algunas visualizaciones de power bi con la base datos
 
 https://learn.microsoft.com/es-es/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
+## ESQUEMA DE LA BASE DE DATOS
 
+<img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/AdvWorksOLTPSchemaVisio2.png"
+     
 ## EJEMPLOS VISUALIZACIONES
 
 ### CUADRO DE MANDOS CLIENTES
 <img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/CUADRO%20DE%20MANDOS%20CLIENTES2.pdf.jpg"/>
 
-### EJEMPLO DE CUENTA DE PÉRDIDAS Y GANANCIAS
+##[
+](https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/AdvWorksOLTPSchemaVisio2.png)# EJEMPLO DE CUENTA DE PÉRDIDAS Y GANANCIAS
 <img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/screenshots%20P%26G%20Adventureworks.jpg"/>
 
 
