@@ -1,0 +1,22 @@
+// Retrieve the page collection and get the visuals for the active page.
+try {
+    const pages = await report.getPages();
+    // Retrieve the page that contain the visual. For the sample report it will be the active page
+    let page = pages.filter(function (page) {
+        return page.isActive
+    })[0];
+
+    const visuals = await page.getVisuals();
+    console.log(
+        visuals.map(function (visual) {
+            return {
+                name: visual.name,
+                type: visual.type,
+                title: visual.title,
+                layout: visual.layout
+            };
+        }));
+}
+catch (errors) {
+    console.log(errors);
+}
