@@ -8,7 +8,7 @@ https://learn.microsoft.com/es-es/sql/samples/adventureworks-install-configure?v
 
 ## ESQUEMA DE LA BASE DE DATOS
 
-<img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/AdvWorksOLTPSchemaVisio2.png"
+<img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/AdvWorksOLTPSchemaVisio2.png"/>
      
 ## EJEMPLOS VISUALIZACIONES
 
