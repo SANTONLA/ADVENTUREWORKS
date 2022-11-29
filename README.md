@@ -5,5 +5,5 @@ Este es un repositorio con algunas visualizaciones de power bi con la base datos
 
 <img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/CUADRO%20DE%20MANDOS%20CLIENTES.pdf"/>
 
-
+<img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/P%26G%20ADVENTUREWORKS.pdf"/>
 
