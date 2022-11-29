@@ -7,3 +7,4 @@ Este es un repositorio con algunas visualizaciones de power bi con la base datos
 
 <img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/screenshots%20P%26G%20Adventureworks.jpg"/>
 
+<img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/screenshots%20balance%20adventureworks.jpg/>
