@@ -15,8 +15,8 @@ https://learn.microsoft.com/es-es/sql/samples/adventureworks-install-configure?v
 ### CUADRO DE MANDOS CLIENTES
 <img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/CUADRO%20DE%20MANDOS%20CLIENTES2.pdf.jpg"/>
 
-##[
-](https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/AdvWorksOLTPSchemaVisio2.png)# EJEMPLO DE CUENTA DE PÉRDIDAS Y GANANCIAS
+### EJEMPLO DE CUENTA DE PÉRDIDAS Y GANANCIAS
+
 <img src="https://github.com/SANTONLA/ADVENTUREWORKS/blob/main/screenshots%20P%26G%20Adventureworks.jpg"/>
 
 
